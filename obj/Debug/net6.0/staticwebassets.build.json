@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "G8j3KnyxAhzu3ag1xzeUw/0SbW++42bx7AU7wN/ZUD4=",
+  "Source": "CookbookApi.SqlExpress",
+  "BasePath": "_content/CookbookApi.SqlExpress",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
